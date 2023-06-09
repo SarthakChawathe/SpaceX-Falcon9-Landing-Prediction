@@ -23,14 +23,10 @@ Please ensure that the data is formatted properly and includes the necessary fea
 The model training process involves the following steps:
 
 1) Data preprocessing: Prepare the Falcon 9 landing dataset by cleaning the data, handling missing values, and transforming features as required.
-
-Feature engineering: Extract relevant features from the dataset that can contribute to predicting the landing outcome. This step may involve feature selection, dimensionality reduction, or generating new features based on domain knowledge.
-
-Model selection: Choose an appropriate machine learning algorithm or ensemble of algorithms for building the prediction model. Consider the characteristics of the data and the problem at hand when selecting the model.
-
-Model training: Split the dataset into training and validation sets, and train the model using the chosen algorithm(s). Optimize the model parameters to improve performance.
-
-Model evaluation: Assess the performance of the trained model using appropriate evaluation metrics. Cross-validation techniques may be applied to obtain more reliable estimates of the model's performance.
+2) Feature engineering: Extract relevant features from the dataset that can contribute to predicting the landing outcome. This step may involve feature selection, dimensionality reduction, or generating new features based on domain knowledge.
+3) Model selection: Choose an appropriate machine learning algorithm or ensemble of algorithms for building the prediction model. Consider the characteristics of the data and the problem at hand when selecting the model.
+4) Model training: Split the dataset into training and validation sets, and train the model using the chosen algorithm(s). Optimize the model parameters to improve performance.
+5) Model evaluation: Assess the performance of the trained model using appropriate evaluation metrics. Cross-validation techniques may be applied to obtain more reliable estimates of the model's performance.
 
 Refer to the code and documentation provided in the repository for detailed instructions on training the model.
 
