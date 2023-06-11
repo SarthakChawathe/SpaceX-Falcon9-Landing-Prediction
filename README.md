@@ -2,6 +2,17 @@
 
 This project aims to predict the landing outcome of SpaceX's Falcon 9 rocket. By analyzing various parameters and historical data, we attempt to determine whether a given Falcon 9 mission will result in a successful landing or not. The prediction model utilizes machine learning techniques to make informed predictions based on available data.
 
+
+## Table of Contents
+
+- [Introduction](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#introduction)
+- [Usage](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#introduction)
+- [Data](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#data)
+- [Model Training](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#model-training)
+- [Evaluation](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#evaluation)
+- [Link to final dashboard](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#link-to-final-dashboard)
+
+
 # Introduction
 SpaceX's Falcon 9 rocket is renowned for its ability to perform vertical landings, enabling reusability and cost reduction in spaceflight. However, not all landing attempts are successful due to various factors such as weather conditions, mission profiles, and technical issues. This project focuses on building a predictive model that can anticipate the outcome of a Falcon 9 landing.
 
