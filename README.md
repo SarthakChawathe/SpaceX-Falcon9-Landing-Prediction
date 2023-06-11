@@ -7,10 +7,9 @@ This project aims to predict the landing outcome of SpaceX's Falcon 9 rocket. By
 
 - [Introduction](https://github.com/SarthakChawathe/SpaceX-Falcon9-Landing-Prediction/blob/main/README.md#introduction)
 - [Usage](https://github.com/SarthakChawathe/SpaceX-Falcon9-Landing-Prediction/blob/main/README.md#usage)
-- [Data](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#data)
-- [Model Training](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#model-training)
-- [Evaluation](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#evaluation)
-- [Link to final dashboard](https://github.com/SarthakChawathe/University-Recommendation-System/blob/main/README.md#link-to-final-dashboard)
+- [Data](https://github.com/SarthakChawathe/SpaceX-Falcon9-Landing-Prediction/blob/main/README.md#data)
+- [Model Training](https://github.com/SarthakChawathe/SpaceX-Falcon9-Landing-Prediction/blob/main/README.md#model-training)
+- [Evaluation](https://github.com/SarthakChawathe/SpaceX-Falcon9-Landing-Prediction/blob/main/README.md#evaluation)
 
 
 # Introduction
